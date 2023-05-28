@@ -21,7 +21,7 @@ setInterval(() => {
         elem.style.top=(x+3)+"px";
     }
     else{
-        alert("Are you Islam (Dawwggg) !! your Islamity is: "+score);
+        alert("Are you the pilot(Dawwggg) !! your towers are +"score");
         elem.style.top=100+"px";
         window.location.reload();
     }
@@ -77,7 +77,7 @@ setInterval(() => {
     else if(checkcollision(document.getElementById("bird"),document.getElementById("pipe2"))){
         elem.style.top=513+"px";
         setTimeout(() => {
-            alert("Are you Islam (Dawwggg) !! your Islamity is: "+score);
+            alert("Are you the pilot(Dawwggg) !! your towers are +"score" );
             return;
         }, 10);
         window.location.reload();
