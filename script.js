@@ -77,7 +77,7 @@ setInterval(() => {
     else if(checkcollision(document.getElementById("bird"),document.getElementById("pipe2"))){
         elem.style.top=513+"px";
         setTimeout(() => {
-            alert("You Lost!! Your Score is: "+score);
+            alert("Are you Islam (Dawwggg) !! your Islamity is: "+score);
             return;
         }, 10);
         window.location.reload();
