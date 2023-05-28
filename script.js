@@ -21,7 +21,7 @@ setInterval(() => {
         elem.style.top=(x+3)+"px";
     }
     else{
-        alert("You Lost !! your score is: "+score);
+        alert("Are you Islam (Dawwggg) !! your Islamity is: "+score);
         elem.style.top=100+"px";
         window.location.reload();
     }
